@@ -98,4 +98,6 @@ theme: jekyll-theme-cayman
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:xwhfcenter/xwhfcenter.github.io.git
+  branch: master
