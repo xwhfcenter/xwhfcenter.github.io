@@ -98,6 +98,5 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:xwhfcenter/xwhfcenter.github.io.git
-  branch: master
+  type: heroku 
+  repo: https://git.heroku.com/copperfield-blog.git
